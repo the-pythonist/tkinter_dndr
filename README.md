@@ -63,7 +63,7 @@ e.g: ```widget.place(x=5, y=10, width=10, height=12)```
 
 #### ----- A USAGE EXAMPLE OF THIS PACKAGE -----
 
-See the test_dndr.py file in the package directory for a usage example.
+See the ```test_dndr.py``` file in the package directory for a usage example.
 
 
 #### ----- AUTHOR OUT 🙂 -----
