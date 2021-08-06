@@ -12,14 +12,14 @@ This package is one that provides drag/drop and widget resizing support to tkint
 
 For widget resizing, you can resize your widget in any direction you can think of (even diagonally), whether:
 
-*UP (or NORTH) direction
-*DOWN(or SOUTH) direction
-*RIGHT (or EAST) direction
-*LEFT (or WEST) direction
-*UP-RIGHT (or NORTH-EAST) direction
-*UP-LEFT (or NORTH-WEST) direction
-*DOWN-RIGHT (or SOUTH-EAST) direction
-*DOWN-LEFT (or SOUTH-WEST) direction
+* UP (or NORTH) direction
+* DOWN(or SOUTH) direction
+* RIGHT (or EAST) direction
+* LEFT (or WEST) direction
+* UP-RIGHT (or NORTH-EAST) direction
+* UP-LEFT (or NORTH-WEST) direction
+* DOWN-RIGHT (or SOUTH-EAST) direction
+* DOWN-LEFT (or SOUTH-WEST) direction
 
 
 #### ----- HOW TO USE THIS PACKAGE -----
