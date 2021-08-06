@@ -4,7 +4,7 @@ A package that provides tkinter (in python) with support for drag/drop and widge
 
 PLEASE READ THIS FILE TO FULLY UNDERSTAND AND USE THIS PACKAGE WITHOUT ISSUES.
 
-#### ----- GENERAL OVERVIEW OF THE PACKAGE (A tkinter Drag/Drop and Resize Package) -----
+### ----- GENERAL OVERVIEW OF THE PACKAGE (A tkinter Drag/Drop and Resize Package) -----
 
 tkinter_DnDR is short form for tkinter_Drag/Drop, Resize
 
