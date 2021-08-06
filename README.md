@@ -27,7 +27,7 @@ DOWN-LEFT (or SOUTH-WEST) direction
 First import the tkinter_dndr module.
 The tkinter_dndr module contains a class called DragDropResizeWidget. 
 1) Create an instance/object of the DragDropResizeWidget class. This class receives your widget as a positional argument.
-EXAMPLE: instance = DragDropResizeWidget(w), where w is the widget you want to give drag/drop or resize support
+EXAMPLE: ```instance = DragDropResizeWidget(w)```, where w is the widget you want to give drag/drop or resize support
 NOTE: Any instance of the DragDropResizeWidget class, contains three(3) methods:
 a) instance.make_draggable() # Provides only drag/drop support to widget
 b) instance.make_resizable() # Provides only resizing support to widget
