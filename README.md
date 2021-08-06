@@ -6,7 +6,7 @@ A package that provides tkinter (in python) with support for drag/drop and widge
 
 #### ----- GENERAL OVERVIEW OF THE PACKAGE (A tkinter Drag/Drop and Resize Package) -----
 
-tkinter_DnDR is short form for tkinter_Drag/Drop, Resize
+##### tkinter_DnDR is short form for tkinter_Drag/Drop, Resize
 
 This package is one that provides drag/drop and widget resizing support to tkinter widget. What this means is that you (as programmer or user) can make your widget move to any position on the GUI window (drag/drop). It additionally means that you can resize your widget directly on the GUI window.
 
