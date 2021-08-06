@@ -5,6 +5,7 @@ A package that provides tkinter (in python) with support for drag/drop and widge
 PLEASE READ THIS FILE TO FULLY UNDERSTAND AND USE THIS PACKAGE WITHOUT ISSUES.
 
 ----- GENERAL OVERVIEW OF THE PACKAGE (A tkinter Drag/Drop and Resize Package) -----
+
 tkinter_DnDR is short form for tkinter_Drag/Drop, Resize
 
 This package is one that provides drag/drop and widget resizing support to tkinter widget. What this means is that you (as programmer or user) can make your widget move to any position on the GUI window (drag/drop). It additionally means that you can resize your widget directly on the GUI window.
@@ -22,6 +23,7 @@ DOWN-LEFT (or SOUTH-WEST) direction
 
 
 ----- HOW TO USE THIS PACKAGE -----
+
 First import the tkinter_dndr module.
 The tkinter_dndr module contains a class called DragDropResizeWidget. 
 1) Create an instance/object of the DragDropResizeWidget class. This class receives your widget as a positional argument.
@@ -38,6 +40,7 @@ e.g: instance.make_draggable()
 
 
 ----- NOTE -----
+
 -- To use the .make_draggable() method, your widget MUST use the PACK or PLACE layout managers (either .pack() or .place())
 -- To use the .make_resizable() method, your widget MUST ONLY use the PLACE layout manager
 -- To use the .make_draggable_and_resizable() method, your widget MUST ONLY use the PLACE layout manager
@@ -47,6 +50,7 @@ e.g: widget.place(x=5, y=10, width=10, height=12)
 
 
 ----- A USAGE EXAMPLE OF THIS PACKAGE -----
+
 See the test_dndr.py file in the package directory for a usage example.
 
 
