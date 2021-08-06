@@ -46,7 +46,7 @@ e.g: ```instance.make_draggable()```
 3) NOTE: I HAVE INCLUDED A test_dndr.py file. Run/Open this file to see and understand how this package works.
 
 
------ NOTE -----
+# ----- NOTE -----
 
 -- To use the ```.make_draggable()``` method, your widget MUST use the PACK or PLACE layout managers (either ```.pack()``` or ```.place()```)
 
