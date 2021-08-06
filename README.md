@@ -4,7 +4,7 @@ A package that provides tkinter (in python) with support for drag/drop and widge
 
 PLEASE READ THIS FILE TO FULLY UNDERSTAND AND USE THIS PACKAGE WITHOUT ISSUES.
 
------ GENERAL OVERVIEW OF THE PACKAGE (A tkinter Drag/Drop and Resize Package) -----
+#### ----- GENERAL OVERVIEW OF THE PACKAGE (A tkinter Drag/Drop and Resize Package) -----
 
 tkinter_DnDR is short form for tkinter_Drag/Drop, Resize
 
@@ -12,7 +12,7 @@ This package is one that provides drag/drop and widget resizing support to tkint
 
 For widget resizing, you can resize your widget in any direction you can think of (even diagonally), whether:
 
-UP (or NORTH) direction
+## UP (or NORTH) direction
 DOWN(or SOUTH) direction
 RIGHT (or EAST) direction
 LEFT (or WEST) direction
@@ -22,7 +22,7 @@ DOWN-RIGHT (or SOUTH-EAST) direction
 DOWN-LEFT (or SOUTH-WEST) direction
 
 
------ HOW TO USE THIS PACKAGE -----
+##### ----- HOW TO USE THIS PACKAGE -----
 
 First import the tkinter_dndr module.
 The tkinter_dndr module contains a class called DragDropResizeWidget. 
