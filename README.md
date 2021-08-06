@@ -8,7 +8,7 @@ A package that provides tkinter (in python) with support for drag/drop and widge
 
 ##### tkinter_DnDR is short form for tkinter_Drag/Drop, Resize
 
-This package is one that provides drag/drop and widget resizing support to tkinter widget. What this means is that you (as programmer or user) can make your widget move to any position on the GUI window (drag/drop). It additionally means that you can resize your widget directly on the GUI window.
+This package is one that provides drag/drop and widget resizing support to tkinter widget. What this means is that you (as programmer) can make your widget move to any position on the GUI window (drag/drop). It additionally means that you can resize your widget directly on the GUI window.
 
 For widget resizing, you can resize your widget in any direction you can think of (even diagonally), whether:
 
@@ -43,7 +43,7 @@ c) ```intance.make_draggable_and_resizable()``` # Provides both drag/drop and re
 
 e.g: ```instance.make_draggable()```
 
-3) NOTE: I HAVE INCLUDED A test_dndr.py file. Run/Open this file to see and understand how this package works.
+3) NOTE: I HAVE INCLUDED A ```test_dndr.py``` file in repository. Run/Open this file to see and understand how this package works.
 
 
 ### ----- NOTE -----
@@ -58,7 +58,7 @@ e.g: ```instance.make_draggable()```
 
 e.g: ```widget.place(x=5, y=10, width=10, height=12)```
 
--- I will endeavour to make SUBSEQUENT VERSIONS of this package work well with any layout manager (whether ```.grid()```, ```.pack()``` or ```.place()```)
+##### _I will endeavour to make SUBSEQUENT VERSIONS of this package work well with any layout manager (whether ```.grid()```, ```.pack()``` or ```.place()```)_
 
 
 #### ----- A USAGE EXAMPLE OF THIS PACKAGE -----
@@ -66,12 +66,12 @@ e.g: ```widget.place(x=5, y=10, width=10, height=12)```
 See the test_dndr.py file in the package directory for a usage example.
 
 
-#### ----- AUTHOR OUT :) -----
+#### ----- AUTHOR OUT 🙂 -----
 
 Feel free to reach me on gadawesome@gmail.com if you have anything you like urgently patched or added. 
 
 If your software/project relies on this package fully supporting all layout managers or any other desired support/addition, I am only an email away.
 
-##### HAPPY TO HELP :-D
+##### HAPPY TO HELP 😄
 
-##### IMPROVEMENTS/SUGGESTIONS are welcome :)
+##### IMPROVEMENTS/SUGGESTIONS are welcome 😉
