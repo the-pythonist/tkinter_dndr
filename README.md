@@ -65,6 +65,9 @@ e.g: ```widget.place(x=5, y=10, width=10, height=12)```
 
 See the ```test_dndr.py``` file in the package directory for a usage example.
 
+#### ----- TUTORIAL OF THE PACKAGE (GIFY) -----
+<img src="https://github.com/the-pythonist/tkinter_dndr/blob/main/tkinter_dndr_gify.gif" />
+
 
 #### ----- AUTHOR OUT 🙂 -----
 
