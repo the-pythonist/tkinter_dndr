@@ -21,6 +21,8 @@ For widget resizing, you can resize your widget in any direction you can think o
 * DOWN-RIGHT (or SOUTH-EAST) direction
 * DOWN-LEFT (or SOUTH-WEST) direction
 
+##### If you are looking for a project that implements this package, check out:
+https://github.com/the-pythonist/python-gui-maker
 
 #### ----- HOW TO USE THIS PACKAGE -----
 
