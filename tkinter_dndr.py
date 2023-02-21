@@ -1,5 +1,5 @@
 
-__author__ = {"LinkedIn": "Samuel Amogbonjaye", "twitter": "the_pythonist"}
+__author__ = {"twitter": "the_pythonist"}
 
 
 class DragDropResizeWidget:
