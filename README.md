@@ -73,9 +73,9 @@ See the ```test_dndr.py``` file in the package directory for a usage example.
 
 #### ----- AUTHOR OUT 🙂 -----
 
-Feel free to reach me on gadawesome{at}gmail.com if you have anything you like urgently patched or added. 
+Feel free to raise an issue if you have anything you like urgently patched or added. 
 
-If your software/project relies on this package fully supporting all layout managers or any other desired support/addition, I am only an email away.
+If your software/project relies on this package fully supporting all layout managers or any other desired support/addition, I am only an Issue creation away.
 
 ##### HAPPY TO HELP 😄
 
