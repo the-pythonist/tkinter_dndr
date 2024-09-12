@@ -1,5 +1,5 @@
 # tkinter_dndr
-A package that provides tkinter (in python) with support for drag/drop and widget resizing of widgets directly on a GUI window. I built this from scratch while developing my python GUI builder. I found no library at the time capable of providing drag/drop and widget resize in real time, so thankfully, I built this.
+A package that provides tkinter (in python) with support for drag/drop and widget resizing of widgets directly on a GUI window. I built this while developing my python GUI builder (https://github.com/the-pythonist/python-gui-maker). I found no library at the time capable of providing drag/drop and widget resize in real time, so thankfully, I built this.
 
 
 #### PLEASE READ THIS FILE TO FULLY UNDERSTAND AND USE THIS PACKAGE WITHOUT ISSUES. #### 
